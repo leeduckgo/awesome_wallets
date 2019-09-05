@@ -1,2 +1,2 @@
-# awesome_wallets
+# awesome wallets
 awesome resources about crypto-wallet
